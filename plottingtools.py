@@ -4,7 +4,7 @@ import uproot
 import awkward as ak
 import seaborn as sns
 
-class MantrinoPlottingTools:
+class PlottingTools:
     
     def __init__(self):
         # Set font and style
